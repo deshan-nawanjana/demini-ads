@@ -1,0 +1,30 @@
+{
+
+	"Flex" : {
+		"Banner [3P]" 					: { "S" : 60,				"T" : "3P" },
+		"Banner [4P]" 					: { "S" : 80,				"T" : "4P" },
+		"Banner [6P]" 					: { "S" : 120,				"T" : "6P" },
+		"Banner [8P]" 					: { "S" : 150,				"T" : "8P" },
+		"Steel Frame ⧄ 1'' Flex" 		: { "S" : 300, "D" : 500,	"T" : "STL FRM" },
+		"Steel Frame ⧄ 1.5'' Flex" 		: { "S" : 300, "D" : 500,	"T" : "STL FRM" },
+		"Light Board Flex" 				: { "S" : 150,				"T" : "L/B" }
+	},
+
+	"PVC" : {
+		"PVC Gloss" 					: { "S" : 120,				"T" : "GLS" },
+		"Steel Frame PVC" 				: { "S" : 500, "D" : 700,	"T" : "STL FRM" },
+		"Steel Frame PVC Laminate" 		: { "S" : 550, "D" : 850,	"T" : "STL FRM LAM" },
+		"Perspex PVC Board" 			: { "S" : 500, "D" : 650,	"T" : "P/F" },
+		"Perspex PVC Laminate" 			: { "S" : 550, "D" : 750,	"T" : "P/F LAM" },
+		"Cladding PVC" 					: { "S" : 350, "D" : 500,	"T" : "CLD" },
+		"Cladding PVC Laminate" 		: { "S" : 400, "D" : 600,	"T" : "CLD LAM" },
+		"Form Board PVC 2mm" 			: { "S" : 250, "D" : 400,	"T" : "FRM 2MM" },
+		"Form Board PVC 3mm" 			: { "S" : 300, "D" : 450,	"T" : "FRM 3MM" }
+	},
+
+	"Clear" : {
+		"Clear Sticker" 				: { "S" : 120,				"T" : "STK" },
+		"Perspex Clear Board" 			: { "S" : 800,				"T" : "P/F" }
+	}
+
+}

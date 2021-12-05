@@ -1,0 +1,171 @@
+#try_title {
+	line-height: 70px;
+	padding-left: 20px;
+	font-size: 25px;
+	color: rgba(255,255,255,0.4);
+}
+
+#try_sheet {
+	width: 600px;
+	height: calc(100vh - 450px);
+}
+
+#try_setup {
+	height: 180px;
+	color: #FFF;
+}
+
+#try_box {
+	width: 0px;
+	height: 0px;
+	border: 4px solid rgba(255,255,255,0.4);
+	border-radius: 8px;
+	transition-property: width, height, transform;
+	transition-duration: 0.3s;
+}
+
+table, td, td, p {
+	padding: 0px;
+	margin: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+.tp_size_button {
+	width: 80px;
+	line-height: 40px;
+	display: inline-block;
+	background: rgba(0,0,0,0.1);
+	text-align: center;
+	cursor: pointer;
+	opacity: 0.8;
+	color: #888;
+	transition: all 0.1s;
+	margin: 0px 3px;
+}
+
+.tp_size_button:hover {
+	opacity: 1;
+	background: rgba(0,0,0,0.15);
+}
+
+.tp_size_button:active {
+	opacity: 1;
+	background: rgba(0,0,0,0.25);
+}
+
+#tpsb_on {
+	opacity: 1 !important;
+	background: #06c !important;
+	color: #FFF !important;
+}
+
+#tp_text {
+	font-size: 24px;
+	color: #666;
+	font-family: Rubik Medium;
+}
+
+.tp_input {
+	width: 90px;
+	border: 2px solid #06c;
+	margin-top: 8px;
+	height: 26px;
+	padding: 5px;
+	text-align: center;
+	font-size: 15px;
+	color: #AAA;
+	margin: 18px 3px 0px 3px;
+	background: transparent;
+}
+
+select {
+	height: 40px;
+	border: solid 1px #FFF;
+	color: #888;
+	font-family: Rubik Medium;
+	font-size: 16px;
+	margin: 10px 0px 0px 0px;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	text-indent: 1px;
+	text-overflow: '';
+}
+
+#tp_select {
+	margin: 15px 16px 0px 5px;
+	width: 270px;
+	border: 1px solid #FFF;
+	padding: 5px;
+}
+
+.tp_select_icon {
+	font-family: Elusive Regular;
+	display: inline-block;
+	margin-left: 25px;
+	color: #888;
+}
+
+#tp_price {
+	line-height: 60px;
+	padding-right: 22px;
+	font-size: 20px;
+	color: #666;
+	text-align: right;
+	font-family: Rubik Medium;
+}
+
+.tp_contact {
+	background: #6699ff;
+	line-height: 60px;
+	padding-left: 22px;
+	font-size: 18px;
+	color: #FFF;
+	font-family: FontAwesome Solid, Rubik Regular;
+	cursor: pointer;
+}
+
+#side {
+	visibility: hidden;
+}
+
+.tp_side_button {
+	width: 120px;
+	line-height: 40px;
+	display: inline-block;
+	background: rgba(0,0,0,0.1);
+	text-align: center;
+	cursor: pointer;
+	opacity: 0.8;
+	color: #888;
+	transition: all 0.1s;
+	margin: 0px 3px;
+	margin-top: 15px;
+}
+
+.tp_side_button:hover {
+	opacity: 1;
+	background: rgba(0,0,0,0.15);
+}
+
+.tp_side_button:active {
+	opacity: 1;
+	background: rgba(0,0,0,0.25);
+}
+
+#tpdb_on {
+	opacity: 1 !important;
+	background: #06c !important;
+	color: #FFF !important;
+}
+
+.btns {
+	padding: 0px 0px 0px 20px;
+}
